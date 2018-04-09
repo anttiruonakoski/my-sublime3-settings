@@ -1,0 +1,13 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/laravel.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"SublimeLinter-html-tidy",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}

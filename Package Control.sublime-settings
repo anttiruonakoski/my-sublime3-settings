@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BeautifyRuby",
+		"Compare Side-By-Side",
+		"Dayle Rees Color Schemes",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"Sync Settings"
+	]
+}
