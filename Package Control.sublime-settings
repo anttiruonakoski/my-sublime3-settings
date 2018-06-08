@@ -6,17 +6,20 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"BeautifyRuby",
+		"Babel",
 		"Compare Side-By-Side",
 		"Dayle Rees Color Schemes",
+		"Emmet",
 		"Git",
 		"GitGutter",
 		"Package Control",
 		"PHP Companion",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Sync Settings"
 	]
 }
