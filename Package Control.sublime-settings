@@ -18,7 +18,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-html-tidy",
-		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Sync Settings"
 	]
